@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NASA Photo of the Day (API)</string>
+    <string name="enter_date">Enter Date (YYYY-MM-DD)</string>
+    <string name="search_data">Search Day</string>
+    <string name="previous_button">Previous Day</string>
+    <string name="explanation">explanation</string>
+    <string name="name_of_the_pic">name of the pic</string>
+</resources>
